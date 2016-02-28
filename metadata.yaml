@@ -1,0 +1,31 @@
+_repo: Quotations-from-Georg-Ebers_6126
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quotations'
+- !lcc 'PT'
+title: Quotations from Georg Ebers
+url: http://www.gutenberg.org/ebooks/6126
